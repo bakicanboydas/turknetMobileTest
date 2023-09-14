@@ -1,0 +1,18 @@
+[INFO ] 2023-09-14 03:27:33.462 [main] Log - I am in onStart method Turknet Tests
+[INFO ] 2023-09-14 03:27:33.490 [main] Log - Test başlıyor!
+[INFO ] 2023-09-14 03:27:46.488 [main] Log - checkHomePage test is starting.
+[INFO ] 2023-09-14 03:27:47.207 [main] Log - checkHomePage test is succeed.
+[INFO ] 2023-09-14 03:27:47.210 [main] Log - Test bitti.
+[INFO ] 2023-09-14 03:27:47.525 [main] Log - I am in onFinish method Turknet Tests
+[INFO ] 2023-09-14 03:29:16.724 [main] Log - I am in onStart method Turknet Tests
+[INFO ] 2023-09-14 03:29:16.755 [main] Log - Test başlıyor!
+[INFO ] 2023-09-14 03:29:32.397 [main] Log - checkHomePage test is starting.
+[INFO ] 2023-09-14 03:29:32.458 [main] Log - checkHomePage test is succeed.
+[INFO ] 2023-09-14 03:29:32.461 [main] Log - Test bitti.
+[INFO ] 2023-09-14 03:29:32.799 [main] Log - I am in onFinish method Turknet Tests
+[INFO ] 2023-09-14 03:30:41.146 [main] Log - I am in onStart method Turknet Tests
+[INFO ] 2023-09-14 03:30:41.174 [main] Log - Test başlıyor!
+[INFO ] 2023-09-14 03:30:56.438 [main] Log - checkHomePage test is starting.
+[INFO ] 2023-09-14 03:30:56.537 [main] Log - checkHomePage test is succeed.
+[INFO ] 2023-09-14 03:30:56.540 [main] Log - Test bitti.
+[INFO ] 2023-09-14 03:30:56.822 [main] Log - I am in onFinish method Turknet Tests

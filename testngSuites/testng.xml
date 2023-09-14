@@ -1,0 +1,17 @@
+<suite name="Turknet Test Suite">
+
+    <listeners>
+        <listener class-name="utils.listeners.TestListener"/>
+        <listener class-name="utils.listeners.AnnotationTransformer"/>
+    </listeners>
+    <test name="Turknet Tests">
+        <parameter name="platformName" value="Android"></parameter>
+        <parameter name="udid" value="R5CT62X6DNM"></parameter>
+        <parameter name="appPackage" value="com.turknet.oim"></parameter>
+        <parameter name="appActivity" value="com.turknet.oim.features.loginotp.presentation.login.LoginActivity"></parameter>
+        <parameter name="implicityWait" value="10"></parameter>
+        <classes>
+            <class name="Framework.pageTests.HomeTest"></class>
+        </classes>
+    </test>
+</suite>
